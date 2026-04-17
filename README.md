@@ -53,17 +53,3 @@ Incoming M.S. Student in Cybersecurity
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-(www.linkedin.com/in/justin-waddell2)
