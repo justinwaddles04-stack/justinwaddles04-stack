@@ -9,11 +9,20 @@ I’m particularly interested in how organizations **prioritize risk, make secur
 
 ## How I Think About Security
 
-Through my academic work, I’ve become less interested in just identifying vulnerabilities and more interested in:
+## How I Think About Security
+How I Think About Security
 
-* How risks are prioritized
-* How security decisions are made
-* How organizations structure and improve their security programs over time
+Through my academic work, I’ve found that I naturally approach security from a risk and decision-making perspective, rather than just a technical one.
+
+I tend to focus on:
+
+How risks are prioritized based on impact and likelihood
+How security decisions are made in structured environments
+How organizations balance risk, resources, and operational constraints
+How security processes can be organized into clear, repeatable systems
+
+I’m most interested in how security connects to the bigger picture of organizational strategy and long-term risk management, not just individual vulnerabilities.
+**
 
 ---
 
