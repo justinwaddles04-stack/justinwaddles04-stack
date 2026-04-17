@@ -1,16 +1,69 @@
 ## Hi there 👋
+# Justin Waddell
 
-<!--
-**justinwaddles04-stack/justinwaddles04-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cybersecurity Risk & GRC Analyst with experience demonstrated through academic projects focused on risk analysis, vulnerability management, and security operations.
 
-Here are some ideas to get you started:
+I’m particularly interested in how organizations **prioritize risk, make security decisions, and build structured security programs**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## How I Think About Security
+
+Through my academic work, I’ve become less interested in just identifying vulnerabilities and more interested in:
+
+* How risks are prioritized
+* How security decisions are made
+* How organizations structure and improve their security programs over time
+
+---
+
+## Key Skills
+
+* Cybersecurity Risk Assessment
+* Vulnerability Management
+* Incident Analysis
+* Data Analysis (SQL, Python)
+* Python (Security Automation)
+* Excel & Dashboarding
+* Frameworks: NIST RMF, SOC 2, HIPAA
+
+---
+
+## Featured Projects
+
+* Cybersecurity Risk Register – Academic project applying NIST RMF concepts
+* Vulnerability Management Dashboard – Academic project focused on risk-based prioritization
+* Security Incident Tracking System – Academic project simulating incident analysis and response prioritization
+
+---
+
+## Education
+
+Incoming M.S. Student in Cybersecurity
+
+---
+
+## Connect
+
+* LinkedIn: https://www.linkedin.com/in/justin-waddell2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(www.linkedin.com/in/justin-waddell2)
